@@ -1,0 +1,22 @@
+{
+  "name": "sqlbuilder-mysql",
+  "version": "1.0.1",
+  "description": "sqlbuilder for mysql syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsherYue/sqlbuilder.git"
+  },
+  "keywords": [
+    "sqlbuilder"
+  ],
+  "author": "usher.yue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UsherYue/sqlbuilder/issues"
+  },
+  "homepage": "https://github.com/UsherYue/sqlbuilder#readme"
+}
